@@ -1,4 +1,24 @@
 import java.util.Scanner;
+/*
+ 
+The print pattern is as follow :  
+                
+                
+                
+                *******
+                ******
+                *****
+                ****
+                ***
+                **
+                *
+ 
+ 
+
+
+*/
+
+
 
 public class Print_Pattern {
     public static void main(String args []){
